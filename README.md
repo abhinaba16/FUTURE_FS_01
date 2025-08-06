@@ -2,7 +2,7 @@
 
 ## 🚀 Project Info
 
-This is a **responsive personal portfolio website** built using only HTML, CSS, and JavaScript — no frameworks! It highlights:
+This is a **responsive personal portfolio website** built using only HTML, TypeScript, and JavaScript — no frameworks! It highlights:
 
 - 🎓 Education & academics
 - 💼 Internship & experience
@@ -59,6 +59,7 @@ This project uses:
 - **HTML5** — for page structure
 - **CSS3** — for layout, colors, and responsive design
 - **JavaScript (Vanilla)** — for smooth scrolling and interactions
+- **TypeScript** — Extends JavaScript support for oop and for my own custom type
 - **Responsive Design** — via media queries
 
 ---
