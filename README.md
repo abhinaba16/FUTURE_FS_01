@@ -37,7 +37,7 @@ cd FUTURE_FS_01
 ### 🖱️ **Edit a file directly in GitHub**
 
 - Go to the repository on GitHub.
-- Click the file you want to edit (e.g., `style.css`, `index.html`).
+- Click the file you want to edit (e.g. `index.html`).
 - Click the ✏️ pencil icon to edit.
 - Scroll down and commit your changes.
 
